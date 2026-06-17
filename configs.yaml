@@ -1,0 +1,16 @@
+data:
+  raw_data_path: data/raw/creditcard.csv
+  processed_data_dir: data/processed
+
+preprocessing:
+  test_size: 0.2
+  random_state: 42
+
+feature_selection:
+  top_n_features: 20
+
+model:
+  model_dir: models
+
+visualization:
+  output_dir: outputs
