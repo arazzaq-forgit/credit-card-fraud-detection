@@ -6,7 +6,7 @@ This project is an end-to-end Machine Learning pipeline for detecting fraudulent
 
 The project is designed with a modular structure following software engineering best practices, making it scalable and easy to maintain.
 
----
+-----
 
 ## 🚀 Features
 
