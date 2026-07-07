@@ -12,7 +12,7 @@ The project is designed with a modular structure following software engineering 
 
 * End-to-end ML pipeline
 * Automated data preprocessing
-* Feature engineering module
+* Feature engineering modules
 * Feature selection module
 * Random Forest classifier
 * Hyperparameter tuning using GridSearchCV
